@@ -2203,21 +2203,18 @@
 	<varlist name="CalcTimers">
 		<varlist name="WM">
 			<float name="FloodSeas">0</float>
-			<float name="FloodLakes">0.406</float>
-			<float name="FloodWtable">2.813</float>
+			<float name="FloodLakes">0.266</float>
+			<float name="FloodWtable">1.093</float>
 		</varlist>
 		<varlist name="AM">
-			<float name="GenMap">3.094</float>
+			<float name="GenMap">1.531</float>
 		</varlist>
 		<varlist name="TN">
-			<float name="GenMap">0.829</float>
+			<float name="GenMap">0.64</float>
 		</varlist>
 		<varlist name="LM">
-			<float name="CastShadows">0.375</float>
-			<float name="CalcLighting">0.875</float>
-		</varlist>
-		<varlist name="TX">
-			<float name="GenMap">14.875</float>
+			<float name="CastShadows">0.156</float>
+			<float name="CalcLighting">0.656</float>
 		</varlist>
 	</varlist>
 	<varlist name="LM">
